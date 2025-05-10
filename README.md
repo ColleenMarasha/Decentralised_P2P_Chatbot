@@ -1,4 +1,4 @@
-To understand more about this find report and do place your comments l will be happy [here]([url](https://docs.google.com/document/d/1T7qz0y_qLD5cy-OQzjonx-Rp5fHdvLIQu63dbYjota4/edit?tab=t.0#heading=h.xa48hoiy7zxi))
+To understand more about this find report and do place your comments [here]([url](https://docs.google.com/document/d/1T7qz0y_qLD5cy-OQzjonx-Rp5fHdvLIQu63dbYjota4/edit?tab=t.0#heading=h.xa48hoiy7zxi))
 
  HCE311 due 12/05/25 Assignment Question 6
 Design and implement a decentralized P2P chat application that allows peers to:
